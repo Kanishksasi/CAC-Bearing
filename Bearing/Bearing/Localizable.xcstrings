@@ -1,0 +1,6995 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "": {},
+    "%.0f degrees": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%.0f grados"
+          }
+        }
+      }
+    },
+    "%.1f seconds": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%.1f segundos"
+          }
+        }
+      }
+    },
+    "%@ in %@": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "%1$@ en %2$@"
+          }
+        }
+      }
+    },
+    "%@, last %lld sessions: %@ %@.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "%1$@, últimas %2$lld sesiones: %3$@ %4$@."
+          }
+        }
+      }
+    },
+    "%lld": {},
+    "%lld check-ins a week": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "%lld registros por semana"
+          }
+        }
+      }
+    },
+    "%lld not counted: %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Intentos no contados: %1$lld. %2$@"
+          }
+        }
+      }
+    },
+    "%lld of %lld attempts counted": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld de %2$lld intentos contados"
+          }
+        }
+      }
+    },
+    "%lld repetitions": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld repeticiones"
+          }
+        }
+      }
+    },
+    "%lld seconds": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "%lld segundos"
+          }
+        }
+      }
+    },
+    "%lld seconds remaining": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quedan %lld segundos"
+          }
+        }
+      }
+    },
+    "1. Prepare": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1. Prepárese"
+          }
+        }
+      }
+    },
+    "2. Record": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2. Registre"
+          }
+        }
+      }
+    },
+    "3. Your result": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3. Su resultado"
+          }
+        }
+      }
+    },
+    "A check-in is one saved session of a routine in your plan. A week runs Monday to Sunday.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Un registro es una sesión guardada de una rutina de su plan. La semana va de lunes a domingo."
+          }
+        }
+      }
+    },
+    "A guided arm raise. A record you can return to.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un movimiento guiado del brazo. Un registro para consultar después."
+          }
+        }
+      }
+    },
+    "A larger or smaller number does not tell you whether your health changed.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un número mayor o menor no indica si su salud cambió."
+          }
+        }
+      }
+    },
+    "A manual entry does not confirm how a movement was done.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Una entrada manual no confirma cómo se hizo un movimiento."
+          }
+        }
+      }
+    },
+    "A phone camera sees a flat picture, not 3D. This number estimates an angle in that picture.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La cámara ve una imagen plana, no en 3D. Este número estima un ángulo en esa imagen."
+          }
+        }
+      }
+    },
+    "A phone camera sees a flat picture, not 3D. This number estimates the angle in the picture. It does not show how far your shoulder can move.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La cámara ve una imagen plana, no en 3D. Este número estima el ángulo en la imagen. No muestra cuánto puede mover el hombro."
+          }
+        }
+      }
+    },
+    "A temporary PDF is created only when you tap Create PDF summary.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Solo se crea un PDF temporal cuando toca Crear resumen PDF."
+          }
+        }
+      }
+    },
+    "All routines": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Todas las rutinas"
+          }
+        }
+      }
+    },
+    "All sessions, settings, and temporary PDFs were deleted.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se borraron todas las sesiones, los ajustes y los PDF temporales."
+          }
+        }
+      }
+    },
+    "Allow reminders?": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "¿Permitir recordatorios?"
+          }
+        }
+      }
+    },
+    "Angle summary": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Resumen del ángulo"
+          }
+        }
+      }
+    },
+    "Angle summary: %.0f degrees": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Resumen del ángulo: %.0f grados"
+          }
+        }
+      }
+    },
+    "Angles use the shoulder, hip, and elbow in a flat phone camera picture.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los ángulos usan el hombro, la cadera y el codo en una imagen plana del teléfono."
+          }
+        }
+      }
+    },
+    "Ankle height marks the lifted foot. Hip movement compared with shoulder width estimates sway.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La altura del tobillo indica el pie levantado. El movimiento de caderas y ancho de hombros estiman oscilación."
+          }
+        }
+      }
+    },
+    "Arm": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Brazo"
+          }
+        }
+      }
+    },
+    "Arm angle summary": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Resumen del ángulo del brazo"
+          }
+        }
+      }
+    },
+    "Arm angle summary: %.0f degrees": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Resumen del ángulo del brazo: %.0f grados"
+          }
+        }
+      }
+    },
+    "Arm raise": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Movimiento del brazo"
+          }
+        }
+      }
+    },
+    "Ask them to level their shoulders.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Pídale que nivele los hombros."
+          }
+        }
+      }
+    },
+    "Ask them to lift one foot and hold it after Start.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Pídale que levante un pie y lo mantenga después de Comenzar."
+          }
+        }
+      }
+    },
+    "Ask them to raise their left arm out to the side.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Pídale que levante el brazo izquierdo hacia el lado."
+          }
+        }
+      }
+    },
+    "Ask them to raise their right arm out to the side.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Pídale que levante el brazo derecho hacia el lado."
+          }
+        }
+      }
+    },
+    "Ask them to sit and cross their arms.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Pídale que se siente y cruce los brazos."
+          }
+        }
+      }
+    },
+    "Ask them to stand in the picture.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Pídale que se pare dentro de la imagen."
+          }
+        }
+      }
+    },
+    "Ask them to stand tall with a straight back.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Pídale que se pare derecho, con la espalda recta."
+          }
+        }
+      }
+    },
+    "Ask them to turn so their left side faces the camera.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Pídale que gire para que su lado izquierdo mire a la cámara."
+          }
+        }
+      }
+    },
+    "Ask them to turn so their right side faces the camera.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Pídale que gire para que su lado derecho mire a la cámara."
+          }
+        }
+      }
+    },
+    "Attempt %lld of %lld": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Intento %1$lld de %2$lld"
+          }
+        }
+      }
+    },
+    "Attempt %lld: %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Intento %1$lld: %2$@"
+          }
+        }
+      }
+    },
+    "Attempts not counted": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Intentos no contados"
+          }
+        }
+      }
+    },
+    "Bearing": {
+      "comment": "needs_review",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Bearing"
+          }
+        }
+      }
+    },
+    "Bearing could not open its saved data. Restart the app. If this keeps happening, delete and reinstall it.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Bearing no pudo abrir sus datos guardados. Reinicie la app. Si esto sigue pasando, bórrela y vuelva a instalarla."
+          }
+        }
+      }
+    },
+    "Bearing measures how you move, using your phone camera.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Bearing mide cómo se mueve usted, con la cámara de su teléfono."
+          }
+        }
+      }
+    },
+    "Bearing movement report": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Informe de movimiento de Bearing"
+          }
+        }
+      }
+    },
+    "Bearing movement summary": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Resumen de movimiento de Bearing"
+          }
+        }
+      }
+    },
+    "Bearing needs the camera to measure your movement. Video stays on your phone and is never saved.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Bearing necesita la cámara para medir su movimiento. El video se queda en su teléfono y nunca se guarda."
+          }
+        }
+      }
+    },
+    "Bearing needs your permission to show a reminder at the times you pick. Reminders stay on your phone.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Bearing necesita su permiso para mostrar un recordatorio a las horas que usted elija. Los recordatorios se quedan en su teléfono."
+          }
+        }
+      }
+    },
+    "Bearing uses the camera to measure movement on this phone. Video is never saved or sent anywhere.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bearing usa la cámara para medir movimiento en este teléfono. Nunca se guarda ni se envía video."
+          }
+        }
+      }
+    },
+    "Bearing uses the camera to measure your arm movement on this phone. Video is never saved or sent anywhere.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bearing usa la cámara para medir el movimiento de su brazo en este teléfono. El video nunca se guarda ni se envía."
+          }
+        }
+      }
+    },
+    "Bearing works offline. It has no accounts and does not save video.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bearing funciona sin internet. No tiene cuentas ni guarda video."
+          }
+        }
+      }
+    },
+    "Before each attempt": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Antes de cada intento"
+          }
+        }
+      }
+    },
+    "Before you start": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Antes de empezar"
+          }
+        }
+      }
+    },
+    "Before you start. Ask them to stand next to a stable support. Stay within arm's reach. Stop if they feel dizzy, have pain, or feel unsteady.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Antes de comenzar. Pídale que se pare junto a un soporte estable. Manténgase al alcance de su brazo. Deténgase si siente mareo, dolor o inestabilidad."
+          }
+        }
+      }
+    },
+    "Before you start. Stand next to a stable support. Keep a person within arm's reach. Stop if you feel dizzy, have pain, or feel unsteady.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Antes de comenzar. Párese junto a un soporte estable. Tenga a una persona al alcance de su brazo. Deténgase si siente mareo, dolor o inestabilidad."
+          }
+        }
+      }
+    },
+    "Bend your knee as comfortable, then return to your starting position.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Doble la rodilla hasta donde se sienta cómodo. Luego vuelva a la posición inicial."
+          }
+        }
+      }
+    },
+    "Bold skeleton": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Esqueleto grueso"
+          }
+        }
+      }
+    },
+    "Bold skeleton makes the lines on the camera view thicker. Easy Start lets a helper tap Start instead of pressing and holding it.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "El esqueleto grueso hace más gruesas las líneas de la vista de la cámara. El inicio fácil permite que un ayudante toque Comenzar en lugar de mantenerlo presionado."
+          }
+        }
+      }
+    },
+    "Building your starting point: %lld of %lld sessions.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Creando su punto de partida: %1$lld de %2$lld sesiones."
+          }
+        }
+      }
+    },
+    "Camera access is off": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El acceso a la cámara está apagado"
+          }
+        }
+      }
+    },
+    "Camera counts and hold estimates depend on framing and joint tracking. They do not describe your health.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los conteos y tiempos estimados dependen del encuadre y del seguimiento de articulaciones. No describen su salud."
+          }
+        }
+      }
+    },
+    "Camera pictures stay in memory while Bearing measures movement. The app saves no images or video.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las imágenes quedan en la memoria mientras Bearing mide el movimiento. La app no guarda imágenes ni video."
+          }
+        }
+      }
+    },
+    "Camera tracking checks stay fixed for this routine.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las comprobaciones de la cámara se mantienen fijas para esta rutina."
+          }
+        }
+      }
+    },
+    "Camera view": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Vista de la cámara"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "comment": "needs_review",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Cancelar"
+          }
+        }
+      }
+    },
+    "Caregiver mode": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Modo de cuidador"
+          }
+        }
+      }
+    },
+    "Caregiver mode uses the back camera so someone else can hold the phone. The countdown gives you time to get into position after you tap Start.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "El modo de cuidador usa la cámara trasera para que otra persona sostenga el teléfono. La cuenta regresiva le da tiempo para ponerse en posición después de tocar Comenzar."
+          }
+        }
+      }
+    },
+    "Changes could not be saved": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudieron guardar los cambios"
+          }
+        }
+      }
+    },
+    "Check-in name": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nombre del registro"
+          }
+        }
+      }
+    },
+    "Check-ins": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registros"
+          }
+        }
+      }
+    },
+    "Check-ins this week": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registros de esta semana"
+          }
+        }
+      }
+    },
+    "Check-ins this week: %lld of %lld": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Registros esta semana: %1$lld de %2$lld"
+          }
+        }
+      }
+    },
+    "Choose a routine": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elija una rutina"
+          }
+        }
+      }
+    },
+    "Choose a side": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elija un lado"
+          }
+        }
+      }
+    },
+    "Choose a supported routine or record a timer or count yourself.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elija una rutina disponible o registre el tiempo o las repeticiones por su cuenta."
+          }
+        }
+      }
+    },
+    "Choose an arm": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elija un brazo"
+          }
+        }
+      }
+    },
+    "Choose routines you already follow. This is your personal plan.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elija rutinas que ya realiza. Este es su plan personal."
+          }
+        }
+      }
+    },
+    "Close other apps that use the camera, then open Bearing again.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cierre otras apps que usen la cámara y abra Bearing otra vez."
+          }
+        }
+      }
+    },
+    "Continue": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Continuar"
+          }
+        }
+      }
+    },
+    "Could not delete": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "No se pudo borrar"
+          }
+        }
+      }
+    },
+    "Countdown before start": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Cuenta regresiva antes de comenzar"
+          }
+        }
+      }
+    },
+    "Countdown paused. Hold steady in view to try again.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cuenta en pausa. Quédese quieto frente a la cámara para intentarlo otra vez."
+          }
+        }
+      }
+    },
+    "Counted": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Contado"
+          }
+        }
+      }
+    },
+    "Create a check-in": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Crear un registro"
+          }
+        }
+      }
+    },
+    "Create PDF summary": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Crear resumen PDF"
+          }
+        }
+      }
+    },
+    "Created on this device when you asked for it. Shared only by you.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Creado en este dispositivo cuando usted lo pidió. Solo usted lo comparte."
+          }
+        }
+      }
+    },
+    "Cross your arms if comfortable. Stand and sit at your own pace.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cruce los brazos si se siente cómodo. Levántese y siéntese a su ritmo."
+          }
+        }
+      }
+    },
+    "Custom check-in": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registro personalizado"
+          }
+        }
+      }
+    },
+    "Custom check-ins": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registros personalizados"
+          }
+        }
+      }
+    },
+    "Date": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fecha"
+          }
+        }
+      }
+    },
+    "Dates, movement values, counts, reasons, plans, custom instructions, and settings stay on this phone.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fechas, valores, repeticiones, motivos, planes, instrucciones y ajustes se quedan en este teléfono."
+          }
+        }
+      }
+    },
+    "degrees": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "grados"
+          }
+        }
+      }
+    },
+    "Degrees": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Grados"
+          }
+        }
+      }
+    },
+    "Degrees describe your arm angle from your body in the picture.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los grados muestran el ángulo del brazo respecto al cuerpo en la imagen."
+          }
+        }
+      }
+    },
+    "Degrees describe your forward arm angle from your body in the picture.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los grados muestran el ángulo del brazo hacia delante respecto al cuerpo en la imagen."
+          }
+        }
+      }
+    },
+    "Degrees describe your knee bend in the picture. A straight leg starts at zero.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los grados muestran la flexión de rodilla en la imagen. Una pierna recta empieza en cero."
+          }
+        }
+      }
+    },
+    "Delete all": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Borrar todo"
+          }
+        }
+      }
+    },
+    "Delete all my data": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Borrar todos mis datos"
+          }
+        }
+      }
+    },
+    "Delete all sessions and settings on this phone?": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¿Desea borrar todas las sesiones y los ajustes de este teléfono?"
+          }
+        }
+      }
+    },
+    "Delete all your data?": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "¿Borrar todos sus datos?"
+          }
+        }
+      }
+    },
+    "Delete check-in": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eliminar registro"
+          }
+        }
+      }
+    },
+    "Delete this check-in? Saved results will remain.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¿Desea eliminar este registro? Los resultados guardados se conservarán."
+          }
+        }
+      }
+    },
+    "Deleting data here does not remove copies you shared or older device backups.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Borrar datos aquí no borra las copias compartidas ni los respaldos anteriores del dispositivo."
+          }
+        }
+      }
+    },
+    "Design choice: your first three sessions with at least two counted attempts each.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Regla de diseño: sus primeras tres sesiones con al menos dos intentos contados cada una."
+          }
+        }
+      }
+    },
+    "Device backups may include app data.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los respaldos del dispositivo pueden incluir datos de la app."
+          }
+        }
+      }
+    },
+    "Difference from your own earlier sessions": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diferencia con sus propias sesiones anteriores"
+          }
+        }
+      }
+    },
+    "Difference from your own earlier sessions: %+.0f degrees": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diferencia con sus propias sesiones anteriores: %+.0f grados"
+          }
+        }
+      }
+    },
+    "Distance and framing": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Distancia y espacio en la imagen"
+          }
+        }
+      }
+    },
+    "Done": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Listo"
+          }
+        }
+      }
+    },
+    "Done.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Listo."
+          }
+        }
+      }
+    },
+    "Down %@ from your starting point": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "%@ menos que su punto de partida"
+          }
+        }
+      }
+    },
+    "Earlier build session": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sesión de una versión anterior"
+          }
+        }
+      }
+    },
+    "Easier to see and use": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Más fácil de ver y usar"
+          }
+        }
+      }
+    },
+    "Easy Start": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Inicio fácil"
+          }
+        }
+      }
+    },
+    "Edit %@": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Editar %@"
+          }
+        }
+      }
+    },
+    "Edit check-in": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Editar registro"
+          }
+        }
+      }
+    },
+    "Edits start a new comparison history. Earlier results stay saved.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los cambios inician un nuevo historial de comparación. Los resultados anteriores se conservan."
+          }
+        }
+      }
+    },
+    "Face the phone. Keep your shoulders, hips, knees, and feet in view.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mire hacia el teléfono. Mantenga hombros, caderas, rodillas y pies en la imagen."
+          }
+        }
+      }
+    },
+    "Face the phone. Step back until your upper body and raised elbow fit in view.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mire hacia el teléfono. Retroceda hasta que la parte superior del cuerpo y el codo levantado queden en la imagen."
+          }
+        }
+      }
+    },
+    "Fast": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Rápida"
+          }
+        }
+      }
+    },
+    "Faster": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Más rápido"
+          }
+        }
+      }
+    },
+    "Filter": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Filtrar"
+          }
+        }
+      }
+    },
+    "Find a check-in": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Buscar un registro"
+          }
+        }
+      }
+    },
+    "Fix": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajustar"
+          }
+        }
+      }
+    },
+    "Fix the checks above to start": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Siga las indicaciones de arriba para empezar"
+          }
+        }
+      }
+    },
+    "Follow phone": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Seguir el teléfono"
+          }
+        }
+      }
+    },
+    "For personal tracking only. Not medical advice or a diagnosis. Share with your clinician.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Solo para seguimiento personal. No es consejo médico ni un diagnóstico. Comparta esto con su profesional de la salud."
+          }
+        }
+      }
+    },
+    "Get ready. %lld": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Prepárese. %lld"
+          }
+        }
+      }
+    },
+    "Get ready. Stand facing the phone.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prepárese. Mire hacia el teléfono."
+          }
+        }
+      }
+    },
+    "Get started": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Empezar"
+          }
+        }
+      }
+    },
+    "Go back and try again with your whole body in the picture.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Regrese e intente de nuevo con todo el cuerpo dentro de la imagen."
+          }
+        }
+      }
+    },
+    "Go.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Ya."
+          }
+        }
+      }
+    },
+    "Guided movement check-ins. A record you can return to.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registros de movimiento guiados. Un historial para consultar después."
+          }
+        }
+      }
+    },
+    "Haptics": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Vibración táctil"
+          }
+        }
+      }
+    },
+    "Helper camera": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cámara para quien le ayuda"
+          }
+        }
+      }
+    },
+    "History": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Historial"
+          }
+        }
+      }
+    },
+    "History and report": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Historial e informe"
+          }
+        }
+      }
+    },
+    "Hold a stable support.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Sosténgase de un soporte estable."
+          }
+        }
+      }
+    },
+    "Hold for one second, then lower it. You will do three attempts for this arm.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantenga el brazo un segundo y luego bájelo. Hará tres intentos con este brazo."
+          }
+        }
+      }
+    },
+    "Hold steady in view. The countdown starts when the setup is ready.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quédese quieto frente a la cámara. La cuenta comienza cuando la posición está lista."
+          }
+        }
+      }
+    },
+    "Hold still for a moment.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quédese quieto un momento."
+          }
+        }
+      }
+    },
+    "Hold the phone at chest height.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Sostenga el teléfono a la altura del pecho."
+          }
+        }
+      }
+    },
+    "Hold the phone straight up.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Sostenga el teléfono derecho."
+          }
+        }
+      }
+    },
+    "Hold time": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Tiempo sostenido"
+          }
+        }
+      }
+    },
+    "Hold to start": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantenga para empezar"
+          }
+        }
+      }
+    },
+    "Hold to start attempt %lld": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantenga pulsado para empezar el intento %lld"
+          }
+        }
+      }
+    },
+    "Hold to start now": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantenga pulsado para empezar ahora"
+          }
+        }
+      }
+    },
+    "Hold up to ten seconds": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantenga hasta diez segundos"
+          }
+        }
+      }
+    },
+    "Holding still": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sin moverse"
+          }
+        }
+      }
+    },
+    "How these were measured": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cómo se midieron"
+          }
+        }
+      }
+    },
+    "How this was recorded": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cómo se registró esto"
+          }
+        }
+      }
+    },
+    "How we measured this": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cómo medimos esto"
+          }
+        }
+      }
+    },
+    "I understand": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entiendo"
+          }
+        }
+      }
+    },
+    "Instructions you already follow": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Instrucciones que ya sigue"
+          }
+        }
+      }
+    },
+    "It is shared only when you choose. Copies may remain wherever you send it.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Solo se comparte cuando usted lo decide. Pueden quedar copias donde lo envíe."
+          }
+        }
+      }
+    },
+    "Keep the same routine, side, and phone position when comparing sessions.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use la misma rutina, lado y posición del teléfono para comparar sesiones."
+          }
+        }
+      }
+    },
+    "Keep your shoulder, hip, and elbow in view.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantenga su hombro, cadera y codo en la imagen."
+          }
+        }
+      }
+    },
+    "Keep your shoulder, hip, knee, and ankle in view.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mantenga su hombro, cadera, rodilla y tobillo en la imagen."
+          }
+        }
+      }
+    },
+    "Knee bend": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Flexión de rodilla"
+          }
+        }
+      }
+    },
+    "Language": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Idioma"
+          }
+        }
+      }
+    },
+    "Latest projected angle": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Último ángulo en la imagen"
+          }
+        }
+      }
+    },
+    "Latest projected angle: %.0f degrees": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Último ángulo en la imagen: %.0f grados"
+          }
+        }
+      }
+    },
+    "Latest projected arm angle": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ángulo proyectado del brazo más reciente"
+          }
+        }
+      }
+    },
+    "Latest projected arm angle: %.0f degrees": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ángulo proyectado del brazo más reciente: %.0f grados"
+          }
+        }
+      }
+    },
+    "Left arm": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Brazo izquierdo"
+          }
+        }
+      }
+    },
+    "Left arm average": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Promedio del brazo izquierdo"
+          }
+        }
+      }
+    },
+    "Left arm best": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mayor ángulo del brazo izquierdo"
+          }
+        }
+      }
+    },
+    "Left foot lifted": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pie izquierdo levantado"
+          }
+        }
+      }
+    },
+    "Left knee bend average": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Flexión de rodilla izquierda, promedio"
+          }
+        }
+      }
+    },
+    "Left knee bend best": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Flexión de rodilla izquierda, mejor intento"
+          }
+        }
+      }
+    },
+    "Left shoulder reach average": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Alcance del hombro izquierdo, promedio"
+          }
+        }
+      }
+    },
+    "Left shoulder reach best": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Alcance del hombro izquierdo, mejor intento"
+          }
+        }
+      }
+    },
+    "Left side": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lado izquierdo"
+          }
+        }
+      }
+    },
+    "Left side average": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Promedio del lado izquierdo"
+          }
+        }
+      }
+    },
+    "Left side best": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mayor ángulo del lado izquierdo"
+          }
+        }
+      }
+    },
+    "Level your shoulders.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Nivele los hombros."
+          }
+        }
+      }
+    },
+    "Lift one foot and hold for up to 10 seconds.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Levante un pie y manténgalo hasta 10 segundos."
+          }
+        }
+      }
+    },
+    "Lift one foot if comfortable. Keep support and someone within reach.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Levante un pie si se siente cómodo. Mantenga un apoyo y a alguien cerca."
+          }
+        }
+      }
+    },
+    "Lift one foot only if comfortable. Lower it whenever you need.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Levante un pie solo si se siente cómodo. Bájelo cuando lo necesite."
+          }
+        }
+      }
+    },
+    "Limits": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Límites"
+          }
+        }
+      }
+    },
+    "Live camera. Pictures are not saved.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cámara en vivo. Las imágenes no se guardan."
+          }
+        }
+      }
+    },
+    "Live picture of you. Lines are drawn over the joints that Bearing tracks.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Imagen en vivo de usted. Se dibujan líneas sobre las articulaciones que Bearing sigue."
+          }
+        }
+      }
+    },
+    "Local reminders": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recordatorios locales"
+          }
+        }
+      }
+    },
+    "Local reminders use only the days and times you choose.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los recordatorios locales usan solo los días y horas que usted elige."
+          }
+        }
+      }
+    },
+    "Make a check-in yours": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Personalice un registro"
+          }
+        }
+      }
+    },
+    "Make it yours": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A su manera"
+          }
+        }
+      }
+    },
+    "Make room": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deje espacio"
+          }
+        }
+      }
+    },
+    "Manual count": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conteo manual"
+          }
+        }
+      }
+    },
+    "Manual entries are not camera measurements.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las entradas manuales no son medidas de la cámara."
+          }
+        }
+      }
+    },
+    "Manual entry": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entrada manual"
+          }
+        }
+      }
+    },
+    "Manual timer": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Temporizador manual"
+          }
+        }
+      }
+    },
+    "Measured on %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Medido el %@"
+          }
+        }
+      }
+    },
+    "Medium": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Media"
+          }
+        }
+      }
+    },
+    "Move at your own pace. Stop whenever you need.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Muévase a su ritmo. Deténgase cuando lo necesite."
+          }
+        }
+      }
+    },
+    "Move back one step.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Retroceda un paso."
+          }
+        }
+      }
+    },
+    "Move back so the whole body fits.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Retroceda para que quepa todo el cuerpo."
+          }
+        }
+      }
+    },
+    "Move closer or farther until the whole body fits.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Acérquese o aléjese hasta que quepa todo el cuerpo."
+          }
+        }
+      }
+    },
+    "Move one step closer.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Acérquese un paso."
+          }
+        }
+      }
+    },
+    "My plan": {
+      "comment": "needs_review",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Mi plan"
+          }
+        }
+      }
+    },
+    "Name (optional): ______________________": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nombre (opcional): ______________________"
+          }
+        }
+      }
+    },
+    "Next try": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Siguiente intento"
+          }
+        }
+      }
+    },
+    "No attempts counted": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ningún intento contado"
+          }
+        }
+      }
+    },
+    "No matching sessions.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No hay sesiones que coincidan."
+          }
+        }
+      }
+    },
+    "No numbers this time": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Sin números esta vez"
+          }
+        }
+      }
+    },
+    "No sessions yet.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aún no hay sesiones."
+          }
+        }
+      }
+    },
+    "No sessions yet. Pick a routine on the home screen.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Aún no hay sesiones. Elija una rutina en la pantalla de inicio."
+          }
+        }
+      }
+    },
+    "No value recorded": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No hay un valor registrado"
+          }
+        }
+      }
+    },
+    "Not counted": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No contado"
+          }
+        }
+      }
+    },
+    "Not now": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Ahora no"
+          }
+        }
+      }
+    },
+    "Not ready yet": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Aún no está listo"
+          }
+        }
+      }
+    },
+    "Observed variation: %.0f to %.0f degrees": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Variación observada: %1$.0f a %2$.0f grados"
+          }
+        }
+      }
+    },
+    "of shoulder width": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "del ancho de hombros"
+          }
+        }
+      }
+    },
+    "Off": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Apagada"
+          }
+        }
+      }
+    },
+    "OK": {
+      "comment": "needs_review",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "OK"
+          }
+        }
+      }
+    },
+    "Older session numbers remain available after an app update. They do not set your new starting point.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los números de sesiones anteriores siguen disponibles al actualizar la app. No definen su nuevo punto de partida."
+          }
+        }
+      }
+    },
+    "One arm. Three attempts.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un brazo. Tres intentos."
+          }
+        }
+      }
+    },
+    "One person in view": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Una persona en la imagen"
+          }
+        }
+      }
+    },
+    "One-leg balance": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Equilibrio en una pierna"
+          }
+        }
+      }
+    },
+    "Only matching check-ins with a recorded value are included.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Solo se incluyen registros que coinciden y tienen un valor guardado."
+          }
+        }
+      }
+    },
+    "Only matching routines and sides are compared.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Solo se comparan rutinas y lados que coinciden."
+          }
+        }
+      }
+    },
+    "Only one person should be in view.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Solo debe aparecer una persona en la imagen."
+          }
+        }
+      }
+    },
+    "Only saved entries with a recorded value count. The chart uses your saved routine choices.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Solo cuentan las entradas guardadas con un valor. La gráfica usa las rutinas elegidas y guardadas."
+          }
+        }
+      }
+    },
+    "Open %@": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir %@"
+          }
+        }
+      }
+    },
+    "Open check-in": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir registro"
+          }
+        }
+      }
+    },
+    "Open Settings": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir Ajustes"
+          }
+        }
+      }
+    },
+    "Opens the camera": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Abre la cámara"
+          }
+        }
+      }
+    },
+    "Part of their body left the picture. Move back and try again.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Una parte del cuerpo salió de la imagen. Retroceda e intente de nuevo."
+          }
+        }
+      }
+    },
+    "Part of your body left the picture. Step back and try again.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Una parte de su cuerpo salió de la imagen. Retroceda e intente de nuevo."
+          }
+        }
+      }
+    },
+    "Part of your body was out of view. Move back one step.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Una parte de su cuerpo quedó fuera de la imagen. Retroceda un paso."
+          }
+        }
+      }
+    },
+    "Past sessions": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Sesiones anteriores"
+          }
+        }
+      }
+    },
+    "Pause timer": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pausar temporizador"
+          }
+        }
+      }
+    },
+    "Personal movement tracking": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seguimiento personal del movimiento"
+          }
+        }
+      }
+    },
+    "Personal movement tracking. Everything stays on your phone.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Seguimiento personal del movimiento. Todo se queda en su teléfono."
+          }
+        }
+      }
+    },
+    "Phone upright": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teléfono vertical"
+          }
+        }
+      }
+    },
+    "Pick a routine": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Elija una rutina"
+          }
+        }
+      }
+    },
+    "Place your phone": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coloque su teléfono"
+          }
+        }
+      }
+    },
+    "Plan saved.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plan guardado."
+          }
+        }
+      }
+    },
+    "Plan saved. Reminders could not be set. Check notification settings.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plan guardado. No se pudieron crear los recordatorios. Revise los ajustes de notificaciones."
+          }
+        }
+      }
+    },
+    "Please try again.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Inténtelo de nuevo."
+          }
+        }
+      }
+    },
+    "Plus means a larger number. Minus means a smaller number.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Más significa un número mayor. Menos significa un número menor."
+          }
+        }
+      }
+    },
+    "Prepare": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preparar"
+          }
+        }
+      }
+    },
+    "Privacy and data": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privacidad y datos"
+          }
+        }
+      }
+    },
+    "Processing about %.0f frames per second": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se procesan unas %.0f imágenes por segundo"
+          }
+        }
+      }
+    },
+    "Projected angle: %.0f degrees. The spread is not available with one counted attempt.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ángulo en la imagen: %.0f grados. La variación no está disponible con un solo intento contado."
+          }
+        }
+      }
+    },
+    "Projected angle: %.0f degrees. Your counted attempts ranged from %.0f to %.0f degrees.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ángulo en la imagen: %.0f grados. Sus intentos contados variaron de %.0f a %.0f grados."
+          }
+        }
+      }
+    },
+    "Projected arm angle: %.0f degrees": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ángulo proyectado del brazo: %.0f grados"
+          }
+        }
+      }
+    },
+    "Projected arm angle: %.0f degrees. The spread is not available with one counted attempt.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ángulo proyectado del brazo: %.0f grados. No hay un rango con un solo intento contado."
+          }
+        }
+      }
+    },
+    "Projected arm angle: %.0f degrees. Your counted attempts ranged from %.0f to %.0f degrees.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ángulo proyectado del brazo: %1$.0f grados. Sus intentos contados van de %2$.0f a %3$.0f grados."
+          }
+        }
+      }
+    },
+    "Prop the phone upright on a steady surface, about chest height.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apoye el teléfono vertical en una superficie firme, a la altura del pecho."
+          }
+        }
+      }
+    },
+    "Raise each arm to the side. Three tries on each side.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Levante cada brazo hacia el lado. Tres intentos de cada lado."
+          }
+        }
+      }
+    },
+    "Raise your arm out to the side. Hold for one second. Then lower it.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Levante el brazo hacia un lado. Manténgalo un segundo. Luego bájelo."
+          }
+        }
+      }
+    },
+    "Raise your left arm out to the side.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Levante el brazo izquierdo hacia el lado."
+          }
+        }
+      }
+    },
+    "Raise your right arm out to the side.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Levante el brazo derecho hacia el lado."
+          }
+        }
+      }
+    },
+    "Raise, hold, lower": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Levante, mantenga, baje"
+          }
+        }
+      }
+    },
+    "Reach your arm forward as comfortable. Hold briefly, then lower it.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Extienda el brazo hacia delante hasta donde se sienta cómodo. Manténgalo brevemente y luego bájelo."
+          }
+        }
+      }
+    },
+    "Ready": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Listo"
+          }
+        }
+      }
+    },
+    "Ready.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Listo."
+          }
+        }
+      }
+    },
+    "Ready. Press and hold Start.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Listo. Mantenga pulsado Empezar."
+          }
+        }
+      }
+    },
+    "Ready. Tap Start.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Listo. Toque Comenzar."
+          }
+        }
+      }
+    },
+    "Record the other arm": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registrar el otro brazo"
+          }
+        }
+      }
+    },
+    "Record the other side": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registrar el otro lado"
+          }
+        }
+      }
+    },
+    "Record with": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registrar con"
+          }
+        }
+      }
+    },
+    "Recorded hold": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tiempo sostenido registrado"
+          }
+        }
+      }
+    },
+    "Recorded hold: %.1f seconds": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tiempo registrado: %.1f segundos"
+          }
+        }
+      }
+    },
+    "Recorded stands": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Veces que se levantó"
+          }
+        }
+      }
+    },
+    "Recorded stands: %lld": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Veces que se levantó: %lld"
+          }
+        }
+      }
+    },
+    "Recorded sway: %.2f of shoulder width": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Movimiento lateral: %.2f del ancho de los hombros"
+          }
+        }
+      }
+    },
+    "Remind me": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Recordarme"
+          }
+        }
+      }
+    },
+    "Reminder days": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Días del recordatorio"
+          }
+        }
+      }
+    },
+    "Reminder time": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hora del recordatorio"
+          }
+        }
+      }
+    },
+    "Reminders": {
+      "comment": "needs_review",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Recordatorios"
+          }
+        }
+      }
+    },
+    "Reminders are off": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Los recordatorios están apagados"
+          }
+        }
+      }
+    },
+    "Reminders stay on this phone. Notification permission is requested when you save with reminders on.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los recordatorios se quedan en este teléfono. Al guardarlos activos, se solicita permiso para notificaciones."
+          }
+        }
+      }
+    },
+    "Removes every saved session, your plan, and your reminders from this phone. Bearing never saves video or pictures.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Quita de este teléfono todas las sesiones guardadas, su plan y sus recordatorios. Bearing nunca guarda video ni fotos."
+          }
+        }
+      }
+    },
+    "Repeat instructions": {
+      "comment": "needs_review",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Repetir instrucciones"
+          }
+        }
+      }
+    },
+    "Required joints in view": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Articulaciones necesarias en la imagen"
+          }
+        }
+      }
+    },
+    "Reset timer": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reiniciar temporizador"
+          }
+        }
+      }
+    },
+    "Restart Bearing to try again. Your saved data has not been deleted.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reinicie Bearing para intentar otra vez. Sus datos guardados no se han borrado."
+          }
+        }
+      }
+    },
+    "Result": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Resultado"
+          }
+        }
+      }
+    },
+    "Right arm": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Brazo derecho"
+          }
+        }
+      }
+    },
+    "Right arm average": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Promedio del brazo derecho"
+          }
+        }
+      }
+    },
+    "Right arm best": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mayor ángulo del brazo derecho"
+          }
+        }
+      }
+    },
+    "Right foot lifted": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pie derecho levantado"
+          }
+        }
+      }
+    },
+    "Right knee bend average": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Flexión de rodilla derecha, promedio"
+          }
+        }
+      }
+    },
+    "Right knee bend best": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Flexión de rodilla derecha, mejor intento"
+          }
+        }
+      }
+    },
+    "Right shoulder reach average": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Alcance del hombro derecho, promedio"
+          }
+        }
+      }
+    },
+    "Right shoulder reach best": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Alcance del hombro derecho, mejor intento"
+          }
+        }
+      }
+    },
+    "Right side": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lado derecho"
+          }
+        }
+      }
+    },
+    "Right side average": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Promedio del lado derecho"
+          }
+        }
+      }
+    },
+    "Right side best": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mayor ángulo del lado derecho"
+          }
+        }
+      }
+    },
+    "Routine": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rutina"
+          }
+        }
+      }
+    },
+    "Routines in my plan": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Rutinas de mi plan"
+          }
+        }
+      }
+    },
+    "Same as your starting point": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Igual que su punto de partida"
+          }
+        }
+      }
+    },
+    "Save and see results": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Guardar y ver resultados"
+          }
+        }
+      }
+    },
+    "Save check-in": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Guardar registro"
+          }
+        }
+      }
+    },
+    "Save plan": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Guardar plan"
+          }
+        }
+      }
+    },
+    "Saved check-ins over four weeks": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registros guardados durante cuatro semanas"
+          }
+        }
+      }
+    },
+    "Saved data could not open": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudieron abrir los datos guardados"
+          }
+        }
+      }
+    },
+    "seconds": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "segundos"
+          }
+        }
+      }
+    },
+    "Seconds show the first recorded foot lift, ending when the foot lowers or time ends.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los segundos muestran el primer pie levantado, hasta bajarlo o terminar el tiempo."
+          }
+        }
+      }
+    },
+    "Seconds show your timer time. Pauses and time outside the app are excluded.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los segundos muestran el tiempo del reloj. Se excluyen las pausas y el tiempo fuera de la aplicación."
+          }
+        }
+      }
+    },
+    "Session": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Sesión"
+          }
+        }
+      }
+    },
+    "Session %lld": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Sesión %lld"
+          }
+        }
+      }
+    },
+    "Session could not be saved": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo guardar la sesión"
+          }
+        }
+      }
+    },
+    "Session dates, arm angles, attempt counts, reasons, and your settings stay on this phone.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las fechas, los ángulos, la cantidad de intentos y sus motivos quedan en este teléfono. También sus ajustes."
+          }
+        }
+      }
+    },
+    "Set up next attempt": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preparar el siguiente intento"
+          }
+        }
+      }
+    },
+    "Settings": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Ajustes"
+          }
+        }
+      }
+    },
+    "Settings could not be saved": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudieron guardar los ajustes"
+          }
+        }
+      }
+    },
+    "Setup checks cover phone tilt, body framing, and steady tracking.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las comprobaciones incluyen la inclinación del teléfono, el encuadre y el seguimiento estable."
+          }
+        }
+      }
+    },
+    "Setup checks cover phone tilt, body framing, steady tracking, and a full raise and lower.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La preparación revisa la posición del teléfono, el cuerpo en la imagen y el seguimiento. También el movimiento completo."
+          }
+        }
+      }
+    },
+    "Share summary (PDF)": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compartir resumen (PDF)"
+          }
+        }
+      }
+    },
+    "Share with your clinician": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Comparta con su profesional de la salud"
+          }
+        }
+      }
+    },
+    "Sharing": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compartir"
+          }
+        }
+      }
+    },
+    "Shoulder reach": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Alcance del hombro"
+          }
+        }
+      }
+    },
+    "Side": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lado"
+          }
+        }
+      }
+    },
+    "Side view": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vista lateral"
+          }
+        }
+      }
+    },
+    "Side view numbers can be off by more than the front view routines.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Los números de la vista de lado pueden ser menos exactos que los de las rutinas de frente."
+          }
+        }
+      }
+    },
+    "Side view. Bend each knee while you hold a stable support. Three tries on each side.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Vista de lado. Doble cada rodilla mientras se sostiene de un soporte estable. Tres intentos de cada lado."
+          }
+        }
+      }
+    },
+    "Side view. Raise each arm forward. Three tries on each side.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Vista de lado. Levante cada brazo hacia el frente. Tres intentos de cada lado."
+          }
+        }
+      }
+    },
+    "Sit in the chair and cross your arms.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Siéntese en la silla y cruce los brazos."
+          }
+        }
+      }
+    },
+    "Sit on a firm chair beside stable support.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Siéntese en una silla firme junto a un apoyo estable."
+          }
+        }
+      }
+    },
+    "Sit to stand": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Sentarse y pararse"
+          }
+        }
+      }
+    },
+    "Slow": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Lenta"
+          }
+        }
+      }
+    },
+    "Slower": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Más despacio"
+          }
+        }
+      }
+    },
+    "Small differences can come from phone placement or lighting, not only from movement.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las diferencias pequeñas pueden venir de la posición del teléfono o la luz, no solo del movimiento."
+          }
+        }
+      }
+    },
+    "Some data could not be deleted. Try Delete all my data again.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudieron borrar algunos datos. Pulse Borrar todos mis datos otra vez."
+          }
+        }
+      }
+    },
+    "Speech speed": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Velocidad de la voz"
+          }
+        }
+      }
+    },
+    "Spoken instructions": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Instrucciones de voz"
+          }
+        }
+      }
+    },
+    "Stand and sit at your own pace. Stop whenever you need.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Levántese y siéntese a su ritmo. Deténgase cuando lo necesite."
+          }
+        }
+      }
+    },
+    "Stand beside stable support with someone within reach.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Póngase junto a un apoyo estable con alguien a su alcance."
+          }
+        }
+      }
+    },
+    "Stand beside stable support. Keep someone within arm’s reach. Stop for pain, dizziness, or unsteadiness.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Póngase junto a un apoyo estable. Mantenga a alguien al alcance de su brazo. Deténgase ante dolor, mareos o inestabilidad."
+          }
+        }
+      }
+    },
+    "Stand or sit steadily. Keep a chair or support within reach. Have someone nearby if you feel unsteady. Stop if you feel pain or dizziness.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Póngase de pie o siéntese con firmeza. Tenga una silla o apoyo a su alcance. Tenga a alguien cerca si siente inestabilidad. Deténgase si siente dolor o mareo."
+          }
+        }
+      }
+    },
+    "Stand so your whole body fits, then tap Start.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Párese de modo que quepa todo su cuerpo y luego toque Comenzar."
+          }
+        }
+      }
+    },
+    "Stand tall with your back straight.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Párese derecho, con la espalda recta."
+          }
+        }
+      }
+    },
+    "Stand tall.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Párese derecho."
+          }
+        }
+      }
+    },
+    "Stand the phone up straight.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Ponga el teléfono derecho."
+          }
+        }
+      }
+    },
+    "Stand up and sit down for 30 seconds with arms crossed.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Párese y siéntese durante 30 segundos con los brazos cruzados."
+          }
+        }
+      }
+    },
+    "Stand up and sit down for 30 seconds.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Párese y siéntese durante 30 segundos."
+          }
+        }
+      }
+    },
+    "Standard": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estándar"
+          }
+        }
+      }
+    },
+    "stands": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "veces"
+          }
+        }
+      }
+    },
+    "Stands in 30 seconds": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Veces de pie en 30 segundos"
+          }
+        }
+      }
+    },
+    "Start": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Comenzar"
+          }
+        }
+      }
+    },
+    "Start arm raise": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empezar movimiento del brazo"
+          }
+        }
+      }
+    },
+    "Start attempt": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empezar intento"
+          }
+        }
+      }
+    },
+    "Start seated. Keep your shoulders and hips in view.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empiece sentado. Mantenga hombros y caderas en la imagen."
+          }
+        }
+      }
+    },
+    "Start timer": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Iniciar temporizador"
+          }
+        }
+      }
+    },
+    "Start when ready": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empezar al estar listo"
+          }
+        }
+      }
+    },
+    "Start with your arm down. Raise it out to the side as far as comfortable.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empiece con el brazo abajo. Levántelo hacia un lado hasta donde se sienta cómodo."
+          }
+        }
+      }
+    },
+    "Start with your arm down. Reach forward, hold briefly, then lower. Do three attempts.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empiece con el brazo abajo. Extiéndalo hacia delante, manténgalo brevemente y bájelo. Haga tres intentos."
+          }
+        }
+      }
+    },
+    "Start with your leg straight if comfortable. Bend your knee, then return. Do three attempts.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empiece con la pierna recta si se siente cómodo. Doble la rodilla y vuelva. Haga tres intentos."
+          }
+        }
+      }
+    },
+    "Starting in %lld": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Empieza en %lld"
+          }
+        }
+      }
+    },
+    "Starting point %@": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Punto de partida %@"
+          }
+        }
+      }
+    },
+    "Starting point %@ %@.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Punto de partida %1$@ %2$@."
+          }
+        }
+      }
+    },
+    "Starting the camera": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Iniciando la cámara"
+          }
+        }
+      }
+    },
+    "Starts a countdown of %lld seconds, then the movement.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Inicia una cuenta regresiva de %lld segundos y luego el movimiento."
+          }
+        }
+      }
+    },
+    "Starts a countdown, then records for %lld seconds.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Inicia una cuenta regresiva y luego registra durante %lld segundos."
+          }
+        }
+      }
+    },
+    "Starts a three second countdown, then records for six seconds.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cuenta tres segundos y luego registra el movimiento durante seis segundos."
+          }
+        }
+      }
+    },
+    "Starts the movement now.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Inicia el movimiento ahora."
+          }
+        }
+      }
+    },
+    "Stay safe": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Cuide su seguridad"
+          }
+        }
+      }
+    },
+    "Step a little closer.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Acérquese un poco."
+          }
+        }
+      }
+    },
+    "Step back so the movement fits in view.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Retroceda hasta que el movimiento quepa en la imagen."
+          }
+        }
+      }
+    },
+    "Step back so your whole body fits.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Retroceda para que quepa todo su cuerpo."
+          }
+        }
+      }
+    },
+    "Step back so your whole upper body is in view.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Retroceda hasta que toda la parte superior de su cuerpo quede en la imagen."
+          }
+        }
+      }
+    },
+    "Step into view. Recording starts after you hold steady and the countdown ends.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Colóquese frente a la cámara. La grabación comienza cuando esté quieto y termine la cuenta."
+          }
+        }
+      }
+    },
+    "Stop": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Detener"
+          }
+        }
+      }
+    },
+    "Stop without saving": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Detener sin guardar"
+          }
+        }
+      }
+    },
+    "Support and someone are within reach": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tengo apoyo y a alguien cerca"
+          }
+        }
+      }
+    },
+    "Support and someone nearby": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apoyo y alguien cerca"
+          }
+        }
+      }
+    },
+    "Sway": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Balanceo"
+          }
+        }
+      }
+    },
+    "Sway describes side-to-side hip movement compared with shoulder width during this hold.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El balanceo muestra el movimiento lateral de cadera respecto al ancho de hombros durante esta posición."
+          }
+        }
+      }
+    },
+    "Sway: %.3f of shoulder width": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oscilación: %.3f del ancho de hombros"
+          }
+        }
+      }
+    },
+    "Tap now, then step into view. You do not need to touch the phone again.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toque ahora y colóquese frente a la cámara. No necesita volver a tocar el teléfono."
+          }
+        }
+      }
+    },
+    "Tap Start when you are ready.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Toque Comenzar cuando esté listo."
+          }
+        }
+      }
+    },
+    "Tap Start, then bend your left knee.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Toque Comenzar y luego doble la rodilla izquierda."
+          }
+        }
+      }
+    },
+    "Tap Start, then bend your right knee.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Toque Comenzar y luego doble la rodilla derecha."
+          }
+        }
+      }
+    },
+    "Tap Start, then lift one foot and hold it.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Toque Comenzar y luego levante un pie y manténgalo."
+          }
+        }
+      }
+    },
+    "Tap Start, then raise your left arm forward.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Toque Comenzar y luego levante el brazo izquierdo hacia el frente."
+          }
+        }
+      }
+    },
+    "Tap Start, then raise your right arm forward.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Toque Comenzar y luego levante el brazo derecho hacia el frente."
+          }
+        }
+      }
+    },
+    "The camera could not see them well. Try better light.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "La cámara no pudo verlo bien. Pruebe con más luz."
+          }
+        }
+      }
+    },
+    "The camera could not see you well. Try better light.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "La cámara no pudo verle bien. Pruebe con más luz."
+          }
+        }
+      }
+    },
+    "The camera could not start": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo iniciar la cámara"
+          }
+        }
+      }
+    },
+    "The camera tracks hip height compared with torso length. It counts rises after a seated start.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La cámara sigue la altura de caderas respecto al largo del torso. Cuenta subidas desde una posición sentada."
+          }
+        }
+      }
+    },
+    "The dashed line is your starting point.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "La línea punteada es su punto de partida."
+          }
+        }
+      }
+    },
+    "The goal shown is your current goal.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La meta mostrada es su meta actual."
+          }
+        }
+      }
+    },
+    "The hold is capped at ten seconds. Stand still before starting.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El tiempo se limita a diez segundos. Quédese quieto antes de empezar."
+          }
+        }
+      }
+    },
+    "The lifted foot changed. Start again with both feet down.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El pie levantado cambió. Empiece de nuevo con ambos pies abajo."
+          }
+        }
+      }
+    },
+    "The PDF could not be created.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo crear el PDF."
+          }
+        }
+      }
+    },
+    "The phone moved. Hold it straight and try again.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "El teléfono se movió. Sosténgalo derecho e intente de nuevo."
+          }
+        }
+      }
+    },
+    "The phone moved. Stand it up straight and try again.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "El teléfono se movió. Póngalo derecho e intente de nuevo."
+          }
+        }
+      }
+    },
+    "The picture angle uses your hip, knee, and ankle. A straight leg is the starting position.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El ángulo usa cadera, rodilla y tobillo. La pierna recta es la posición inicial."
+          }
+        }
+      }
+    },
+    "The picture angle uses your shoulder, hip, and elbow from the front.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El ángulo usa hombro, cadera y codo en una vista frontal."
+          }
+        }
+      }
+    },
+    "The picture angle uses your shoulder, hip, and elbow from the side.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El ángulo usa hombro, cadera y codo en una vista lateral."
+          }
+        }
+      }
+    },
+    "The recording lasts thirty seconds. You can stop at any time.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El registro dura treinta segundos. Puede detenerse en cualquier momento."
+          }
+        }
+      }
+    },
+    "The spread is not available with one counted attempt.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No hay un rango con un solo intento contado."
+          }
+        }
+      }
+    },
+    "The summary uses the middle value of counted attempts. With two, it uses their average.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El resumen usa el valor central de los intentos contados. Con dos, usa su promedio."
+          }
+        }
+      }
+    },
+    "Their body leaned too far. Ask them to stand tall and try again.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "El cuerpo se inclinó demasiado. Pídale que se enderece e intente de nuevo."
+          }
+        }
+      }
+    },
+    "Then press and hold Start.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Luego mantenga presionado Comenzar."
+          }
+        }
+      }
+    },
+    "Then tap Start.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Luego toque Comenzar."
+          }
+        }
+      }
+    },
+    "There is no angle summary for this session.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No hay un resumen de ángulos para esta sesión."
+          }
+        }
+      }
+    },
+    "These checks use engineering settings, not medical cutoffs. Results compare only with your own earlier sessions.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estas revisiones usan ajustes de diseño, sin límites médicos. Los resultados solo se comparan con sus propias sesiones anteriores."
+          }
+        }
+      }
+    },
+    "These estimates have not been checked in a medical study.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estas estimaciones no se han comprobado en un estudio médico."
+          }
+        }
+      }
+    },
+    "These numbers used an earlier method. They do not set your new starting point.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estos números usaron un método anterior. No definen su nuevo punto de partida."
+          }
+        }
+      }
+    },
+    "They hold a stable support and bend that knee.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Se sostiene de un soporte estable y dobla esa rodilla."
+          }
+        }
+      }
+    },
+    "They raise that arm forward.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Levanta ese brazo hacia el frente."
+          }
+        }
+      }
+    },
+    "They stand up and sit down for 30 seconds.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Se para y se sienta durante 30 segundos."
+          }
+        }
+      }
+    },
+    "This cannot be undone.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Esto no se puede deshacer."
+          }
+        }
+      }
+    },
+    "This check-in records your entry. The camera does not measure it.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este registro guarda su entrada. La cámara no la mide."
+          }
+        }
+      }
+    },
+    "This is for personal tracking only.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Esto es solo para seguimiento personal."
+          }
+        }
+      }
+    },
+    "This is the count you entered. The camera did not count these movements.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este es el número que usted ingresó. La cámara no contó estos movimientos."
+          }
+        }
+      }
+    },
+    "This is the number of seated-to-standing rises counted during this recording.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este número muestra cuántas veces se levantó desde la silla durante la grabación."
+          }
+        }
+      }
+    },
+    "This is your own earlier record, not a target to reach.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este es su propio registro anterior, no una meta que deba alcanzar."
+          }
+        }
+      }
+    },
+    "This recording did not give a usable value. Read the reasons below before trying again.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta grabación no dio un valor utilizable. Lea las razones antes de volver a intentarlo."
+          }
+        }
+      }
+    },
+    "This session helps set your starting point.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Esta sesión ayuda a fijar su punto de partida."
+          }
+        }
+      }
+    },
+    "This spread shows variation between attempts. It is not a measurement error range.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este rango muestra la variación entre intentos. No es un rango de error de la medida."
+          }
+        }
+      }
+    },
+    "This week: %lld of %lld check-ins": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Esta semana: %1$lld de %2$lld registros"
+          }
+        }
+      }
+    },
+    "Three attempts for one side": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tres intentos para un lado"
+          }
+        }
+      }
+    },
+    "Time": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Hora"
+          }
+        }
+      }
+    },
+    "Time for your Bearing check-in.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Es hora de su registro de Bearing."
+          }
+        }
+      }
+    },
+    "Time: %lld seconds": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Tiempo: %lld segundos"
+          }
+        }
+      }
+    },
+    "Timer limit: %lld seconds": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Límite del temporizador: %lld segundos"
+          }
+        }
+      }
+    },
+    "Timer: %lld seconds": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Temporizador: %lld segundos"
+          }
+        }
+      }
+    },
+    "To get reminders, turn on notifications for Bearing in Settings.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Para recibir recordatorios, active las notificaciones de Bearing en Ajustes."
+          }
+        }
+      }
+    },
+    "Track one arm movement privately on this phone and see exactly how it was measured.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registre un movimiento del brazo en privado con este teléfono. Vea cómo se midió."
+          }
+        }
+      }
+    },
+    "Tries kept: %lld. Tries not counted: %lld.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Intentos guardados: %1$lld. Intentos no contados: %2$lld."
+          }
+        }
+      }
+    },
+    "Try %lld.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Intento %lld."
+          }
+        }
+      }
+    },
+    "Try again": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Intentar de nuevo"
+          }
+        }
+      }
+    },
+    "Try creating the summary again.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Intente crear el resumen otra vez."
+          }
+        }
+      }
+    },
+    "Try not counted.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Intento no contado."
+          }
+        }
+      }
+    },
+    "Try saved.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Intento guardado."
+          }
+        }
+      }
+    },
+    "Try voice": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Probar voz"
+          }
+        }
+      }
+    },
+    "Try your change again.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Intente cambiar el ajuste otra vez."
+          }
+        }
+      }
+    },
+    "Turn on the camera for Bearing in Settings to measure your movement.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Active la cámara para Bearing en Ajustes para medir su movimiento."
+          }
+        }
+      }
+    },
+    "Turn sideways with your chosen side toward the phone.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gire para que el lado elegido mire hacia el teléfono."
+          }
+        }
+      }
+    },
+    "Turn so your left side faces the camera.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Gire para que su lado izquierdo mire a la cámara."
+          }
+        }
+      }
+    },
+    "Turn so your right side faces the camera.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Gire para que su lado derecho mire a la cámara."
+          }
+        }
+      }
+    },
+    "Up %@ from your starting point": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "%@ más que su punto de partida"
+          }
+        }
+      }
+    },
+    "Up to %lld seconds": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hasta %lld segundos"
+          }
+        }
+      }
+    },
+    "Upper body in view": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Parte superior del cuerpo en la imagen"
+          }
+        }
+      }
+    },
+    "Use a firm chair that cannot slide. Face the phone.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use una silla firme que no pueda deslizarse. Mire hacia el teléfono."
+          }
+        }
+      }
+    },
+    "Use a movement you already know. Follow guidance from your clinician.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use un movimiento que ya conoce. Siga las indicaciones de su profesional de la salud."
+          }
+        }
+      }
+    },
+    "Use guidance you already have. Bearing does not choose movements for you.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use indicaciones que ya tiene. Bearing no elige movimientos por usted."
+          }
+        }
+      }
+    },
+    "Use movements you already know. Ask your clinician which routines are right for you.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use movimientos que ya conoce. Pregunte a su profesional de la salud qué rutinas le corresponden."
+          }
+        }
+      }
+    },
+    "Uses the rear camera when someone holds your phone.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Usa la cámara trasera cuando alguien sostiene su teléfono."
+          }
+        }
+      }
+    },
+    "Video is never saved": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nunca se guarda video"
+          }
+        }
+      }
+    },
+    "Voice speed": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Velocidad de voz"
+          }
+        }
+      }
+    },
+    "Waiting for your position": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esperando su posición"
+          }
+        }
+      }
+    },
+    "We cannot see your whole upper body. Move back one step.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No vemos toda la parte superior de su cuerpo. Retroceda un paso."
+          }
+        }
+      }
+    },
+    "We could not read your phone tilt. Close other apps and try again.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No pudimos leer la inclinación de su teléfono. Cierre otras apps e intente otra vez."
+          }
+        }
+      }
+    },
+    "We could not record a full raise and lower with this setup. Start with your arm down. Raise it out to the side, hold for one second, then lower it. Bearing only supports this movement.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No pudimos registrar un movimiento completo con esta preparación. Empiece con el brazo abajo. Levántelo hacia un lado, manténgalo un segundo y luego bájelo. Bearing solo registra este movimiento."
+          }
+        }
+      }
+    },
+    "We could not record a full raise and lower with this setup. Start with your arm down. Raise it out to the side, hold for one second, then lower it. This routine records this movement only.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No pudimos registrar una subida y bajada completas con esta preparación. Empiece con el brazo abajo. Levántelo hacia un lado, manténgalo un segundo y bájelo. Esta rutina registra solo este movimiento."
+          }
+        }
+      }
+    },
+    "We could not record the full movement. Review the setup and try only as comfortable.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No pudimos registrar el movimiento completo. Revise la preparación e inténtelo solo hasta donde se sienta cómodo."
+          }
+        }
+      }
+    },
+    "We could not save this session.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "No pudimos guardar esta sesión."
+          }
+        }
+      }
+    },
+    "We could not see the movement clearly. Try more light or a plain background.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No pudimos ver el movimiento con claridad. Pruebe con más luz o un fondo sencillo."
+          }
+        }
+      }
+    },
+    "We could not see your arm well enough. Try more light or a plain background.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No pudimos ver su brazo con claridad. Busque más luz o un fondo sencillo."
+          }
+        }
+      }
+    },
+    "We could not start yet. %@": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Todavía no pudimos comenzar. %@"
+          }
+        }
+      }
+    },
+    "We did not record a foot lift. Lower both feet and try again only if comfortable.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No registramos un pie levantado. Baje ambos pies e inténtelo solo si se siente cómodo."
+          }
+        }
+      }
+    },
+    "We did not see a foot lift. Ask them to lift one foot off the floor and try again.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "No vimos que levantara un pie. Pídale que levante un pie del suelo e intente de nuevo."
+          }
+        }
+      }
+    },
+    "We did not see a foot lift. Lift one foot off the floor and try again.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "No vimos que levantara un pie. Levante un pie del suelo e intente de nuevo."
+          }
+        }
+      }
+    },
+    "We need to see the joints for this routine. Adjust your distance.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Necesitamos ver las articulaciones de esta rutina. Ajuste su distancia."
+          }
+        }
+      }
+    },
+    "Week": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Semana"
+          }
+        }
+      }
+    },
+    "Week of %@: %lld of %lld": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Semana del %1$@: %2$lld de %3$lld"
+          }
+        }
+      }
+    },
+    "Weekly goal": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Meta semanal"
+          }
+        }
+      }
+    },
+    "Weekly goal: %lld check-ins": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meta semanal: %lld registros"
+          }
+        }
+      }
+    },
+    "Welcome to Bearing": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Le damos la bienvenida a Bearing"
+          }
+        }
+      }
+    },
+    "What Bearing does": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Qué hace Bearing"
+          }
+        }
+      }
+    },
+    "What is saved on this phone": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Qué se guarda en este teléfono"
+          }
+        }
+      }
+    },
+    "What this number means": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Qué significa este número"
+          }
+        }
+      }
+    },
+    "Works offline. No accounts. No app-operated server or telemetry. No analytics. No third-party code.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Funciona sin internet. No tiene cuentas. La app no tiene servidor ni envía datos de uso. No usa código externo."
+          }
+        }
+      }
+    },
+    "You leaned to the side. Keep your body upright and try again.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se inclinó hacia un lado. Mantenga el cuerpo erguido e inténtelo de nuevo."
+          }
+        }
+      }
+    },
+    "You leaned to the side. Stand tall and try again.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se inclinó hacia un lado. Enderece el cuerpo e intente otra vez."
+          }
+        }
+      }
+    },
+    "You recorded this value yourself. It was not measured by the camera.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Usted registró este valor. La cámara no lo midió."
+          }
+        }
+      }
+    },
+    "Your attempts": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sus intentos"
+          }
+        }
+      }
+    },
+    "Your body leaned too far. Stand tall and try again.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Su cuerpo se inclinó demasiado. Enderécese e intente de nuevo."
+          }
+        }
+      }
+    },
+    "Your count": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Su conteo"
+          }
+        }
+      }
+    },
+    "Your current plan": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Su plan actual"
+          }
+        }
+      }
+    },
+    "Your custom check-ins will appear here.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sus registros personalizados aparecerán aquí."
+          }
+        }
+      }
+    },
+    "Your data stays with you.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sus datos se quedan con usted."
+          }
+        }
+      }
+    },
+    "Your history": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Su historial"
+          }
+        }
+      }
+    },
+    "Your instructions": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sus instrucciones"
+          }
+        }
+      }
+    },
+    "Your last 10 sessions": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Sus últimas 10 sesiones"
+          }
+        }
+      }
+    },
+    "Your movement.\nYour own pace.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Su movimiento.\nA su ritmo."
+          }
+        }
+      }
+    },
+    "Your phone is tilted. Prop it upright.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Su teléfono está inclinado. Apóyelo en posición vertical."
+          }
+        }
+      }
+    },
+    "Your phone tilted during the attempt. Prop it upright and try again.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Su teléfono se inclinó durante el intento. Apóyelo en posición vertical e intente otra vez."
+          }
+        }
+      }
+    },
+    "Your recorded entry": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Su entrada registrada"
+          }
+        }
+      }
+    },
+    "Your recorded values over time": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sus valores registrados a lo largo del tiempo"
+          }
+        }
+      }
+    },
+    "Your result": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Su resultado"
+          }
+        }
+      }
+    },
+    "Your results are still here. Try saving again.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sus resultados siguen aquí. Intente guardar otra vez."
+          }
+        }
+      }
+    },
+    "Your routines": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sus rutinas"
+          }
+        }
+      }
+    },
+    "Your saved arm raises will appear here.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sus movimientos de brazo guardados aparecerán aquí."
+          }
+        }
+      }
+    },
+    "Your saved check-ins will appear here.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sus registros guardados aparecerán aquí."
+          }
+        }
+      }
+    },
+    "Your saved sessions": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sus sesiones guardadas"
+          }
+        }
+      }
+    },
+    "Your starting point": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Su punto de partida"
+          }
+        }
+      }
+    },
+    "Your starting point uses sessions with at least two counted attempts.": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Su punto de partida usa sesiones con al menos dos intentos contados."
+          }
+        }
+      }
+    },
+    "Your starting point uses your first three matching entries.": {
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Su punto de partida usa las primeras tres entradas que coinciden."
+          }
+        }
+      }
+    },
+    "Your starting point: %.0f degrees": {
+      "extractionState": "manual",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Su punto de partida: %.0f grados"
+          }
+        }
+      }
+    },
+    "Your video never leaves this phone and is never saved.": {
+      "comment": "needs_review",
+      "extractionState": "stale",
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "needs_review",
+            "value": "Su video nunca sale de este teléfono y nunca se guarda."
+          }
+        }
+      }
+    },
+    "Your weekly history will appear after you save a check-in.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Su historial semanal aparecerá después de guardar un registro."
+          }
+        }
+      }
+    },
+    "%lld saved check-ins": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld registros guardados"
+          }
+        }
+      }
+    },
+    "A counted attempt met the recording rules. It does not confirm correct movement or health.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un intento contado cumplió las reglas de grabación. No confirma un movimiento correcto ni su salud."
+          }
+        }
+      }
+    },
+    "Add context when sharing. These blank lines are not saved health information.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Agregue contexto al compartir. Estas líneas vacías no son información de salud guardada."
+          }
+        }
+      }
+    },
+    "App version at saving": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Versión de la aplicación al guardar"
+          }
+        }
+      }
+    },
+    "Attempts and recording details": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Intentos y detalles de grabación"
+          }
+        }
+      }
+    },
+    "Camera checks do not apply to manual entries.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las comprobaciones de cámara no se aplican a entradas manuales."
+          }
+        }
+      }
+    },
+    "Camera estimate": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estimación de cámara"
+          }
+        }
+      }
+    },
+    "Camera or entry source": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cámara o fuente de la entrada"
+          }
+        }
+      }
+    },
+    "Changes since the last check-in: ______________________": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cambios desde el último registro: ______________________"
+          }
+        }
+      }
+    },
+    "Continued": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Continuación"
+          }
+        }
+      }
+    },
+    "Counted value %lld: %.0f degrees": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Valor contado %lld: %.0f grados"
+          }
+        }
+      }
+    },
+    "Date and time | Recorded value | Counted attempts": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fecha y hora | Valor registrado | Intentos contados"
+          }
+        }
+      }
+    },
+    "Dates are shown in the report time zone.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las fechas usan la zona horaria del informe."
+          }
+        }
+      }
+    },
+    "Each counted angle uses the middle of the highest fresh, smoothed picture-angle samples.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cada ángulo contado usa el valor central de las muestras recientes más altas del ángulo suavizado."
+          }
+        }
+      }
+    },
+    "Exact recording settings for this older record were not saved.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se guardaron los ajustes exactos de grabación de este registro anterior."
+          }
+        }
+      }
+    },
+    "Frame rate, joint coverage, and phone angles were not saved as separate measurements.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se guardaron por separado la frecuencia de imágenes, las articulaciones visibles ni los ángulos del teléfono."
+          }
+        }
+      }
+    },
+    "Front camera": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cámara frontal"
+          }
+        }
+      }
+    },
+    "Held joint positions cannot count as fresh measurements.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las posiciones articulares retenidas no cuentan como medidas recientes."
+          }
+        }
+      }
+    },
+    "History ends at the selected record. Later records are not included.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El historial termina en el registro elegido. No incluye registros posteriores."
+          }
+        }
+      }
+    },
+    "Information Bearing does not collect": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Información que Bearing no recopila"
+          }
+        }
+      }
+    },
+    "Matching saved records": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registros guardados que coinciden"
+          }
+        }
+      }
+    },
+    "Medicines, medical history, vital signs, and physical examination findings are not recorded.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se registran medicamentos, historial médico, signos vitales ni resultados de una exploración física."
+          }
+        }
+      }
+    },
+    "Method version at saving": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Versión del método al guardar"
+          }
+        }
+      }
+    },
+    "No current personal plan was provided for this report.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se proporcionó un plan personal actual para este informe."
+          }
+        }
+      }
+    },
+    "No matching saved records are available.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No hay registros guardados que coincidan."
+          }
+        }
+      }
+    },
+    "No video, pictures, or raw joint sequences are saved for later review.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se guardan videos, imágenes ni secuencias articulares sin procesar para revisarlos después."
+          }
+        }
+      }
+    },
+    "Not saved": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No guardado"
+          }
+        }
+      }
+    },
+    "Notes to discuss with your clinician": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notas para conversar con su profesional de salud"
+          }
+        }
+      }
+    },
+    "Older record. Detailed attempts were not saved.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registro anterior. No se guardaron intentos detallados."
+          }
+        }
+      }
+    },
+    "One counted attempt can appear in history, but cannot enter the starting point.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un solo intento contado puede aparecer en el historial, pero no formar el punto de partida."
+          }
+        }
+      }
+    },
+    "Page %lld": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Página %lld"
+          }
+        }
+      }
+    },
+    "Pain, symptoms, injuries, and the reason for doing the routine are not recorded.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se registran dolor, síntomas, lesiones ni el motivo para hacer la rutina."
+          }
+        }
+      }
+    },
+    "Past goals and assignments were not saved. These counts use the current routine choices.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se guardaron metas ni asignaciones anteriores. Estos recuentos usan las rutinas elegidas actualmente."
+          }
+        }
+      }
+    },
+    "Personal comparison and history": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Comparación personal e historial"
+          }
+        }
+      }
+    },
+    "Plan context and review notes": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Contexto del plan y notas de revisión"
+          }
+        }
+      }
+    },
+    "Projected angle: %.0f degrees": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ángulo en la imagen: %.0f grados"
+          }
+        }
+      }
+    },
+    "Questions or requested follow-up: ______________________": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preguntas o seguimiento solicitado: ______________________"
+          }
+        }
+      }
+    },
+    "Read the tracking limits and missing information before using these numbers.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lea los límites del seguimiento y la información faltante antes de usar estos números."
+          }
+        }
+      }
+    },
+    "Rear camera": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cámara trasera"
+          }
+        }
+      }
+    },
+    "Reason not available": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Motivo no disponible"
+          }
+        }
+      }
+    },
+    "Record overview": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Resumen del registro"
+          }
+        }
+      }
+    },
+    "Recorded on": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registrado el"
+          }
+        }
+      }
+    },
+    "Recording context": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Contexto de grabación"
+          }
+        }
+      }
+    },
+    "Recording duration": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Duración de grabación"
+          }
+        }
+      }
+    },
+    "Records without a value remain visible. They do not enter the starting point.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los registros sin valor siguen visibles. No forman parte del punto de partida."
+          }
+        }
+      }
+    },
+    "Report created": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Informe creado"
+          }
+        }
+      }
+    },
+    "Report time zone": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zona horaria del informe"
+          }
+        }
+      }
+    },
+    "Review at a glance": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Resumen para revisión"
+          }
+        }
+      }
+    },
+    "Review date (optional): ______________________": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fecha de revisión (opcional): ______________________"
+          }
+        }
+      }
+    },
+    "Routine, side or lifted foot, and custom template must match.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deben coincidir la rutina, el lado o pie levantado y la plantilla personal."
+          }
+        }
+      }
+    },
+    "Saved entries do not prove that every planned exercise was completed.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las entradas guardadas no prueban que se completaron todos los ejercicios del plan."
+          }
+        }
+      }
+    },
+    "Showing %lld of %lld matching records, most recent first.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se muestran %lld de %lld registros coincidentes, del más reciente al más antiguo."
+          }
+        }
+      }
+    },
+    "Some saved reasons are not available in this app version.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Algunos motivos guardados no están disponibles en esta versión de la aplicación."
+          }
+        }
+      }
+    },
+    "Source": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fuente"
+          }
+        }
+      }
+    },
+    "Support or help used: ______________________": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apoyo o ayuda utilizados: ______________________"
+          }
+        }
+      }
+    },
+    "Symptoms or discomfort during the routine: ______________________": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Síntomas o molestias durante la rutina: ______________________"
+          }
+        }
+      }
+    },
+    "The original order of attempts was not saved for this record.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se guardó el orden original de los intentos de este registro."
+          }
+        }
+      }
+    },
+    "The weeks below end with the selected record's week.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las semanas siguientes terminan en la semana del registro elegido."
+          }
+        }
+      }
+    },
+    "These are the instructions saved with this record. Their author is not verified.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estas instrucciones se guardaron con este registro. Su autor no está verificado."
+          }
+        }
+      }
+    },
+    "This plan was entered on this phone. No professional assignment is verified.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este plan se ingresó en este teléfono. No se verifica ninguna asignación profesional."
+          }
+        }
+      }
+    },
+    "This record is part of the starting point. No later difference is shown.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este registro forma parte del punto de partida. No se muestra una diferencia posterior."
+          }
+        }
+      }
+    },
+    "This report cannot establish a cause, a medication need, or which exercises are appropriate.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este informe no establece una causa, la necesidad de medicamentos ni qué ejercicios son apropiados."
+          }
+        }
+      }
+    },
+    "This report contains personal movement records, not a full health record.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este informe contiene registros personales de movimiento, no un historial médico completo."
+          }
+        }
+      }
+    },
+    "Time zone at saving": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zona horaria al guardar"
+          }
+        }
+      }
+    },
+    "Use of support, crossed arms, and how closely instructions were followed are not verified.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se verifica el uso de apoyo, los brazos cruzados ni cómo se siguieron las instrucciones."
+          }
+        }
+      }
+    },
+    "PDF includes recording details, matching history, and review notes.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El PDF incluye detalles de grabación, historial coincidente y notas de revisión."
+          }
+        }
+      }
+    },
+    "No difference is shown because this record has no value.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se muestra una diferencia porque este registro no tiene un valor."
+          }
+        }
+      }
+    },
+    "A share sheet cannot verify the recipient or confirm that a clinician read the report.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La hoja de compartir no verifica al destinatario ni confirma que un profesional leyó el informe."
+          }
+        }
+      }
+    },
+    "Accept plan changes": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aceptar cambios del plan"
+          }
+        }
+      }
+    },
+    "Accepted plan versions": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Versiones aceptadas del plan"
+          }
+        }
+      }
+    },
+    "Accepting saves a new personal plan version. Earlier versions stay in your plan history.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Al aceptar, se guarda otra versión del plan personal. Las versiones anteriores siguen en el historial."
+          }
+        }
+      }
+    },
+    "Bearing could not unlock. Try again using your device authentication.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bearing no se pudo abrir. Inténtelo otra vez con la autenticación de su dispositivo."
+          }
+        }
+      }
+    },
+    "Choose one of your planned routines. Follow the instructions you already have.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elija una de sus rutinas del plan. Siga las instrucciones que ya tiene."
+          }
+        }
+      }
+    },
+    "Choose report details": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elegir detalles del informe"
+          }
+        }
+      }
+    },
+    "Choose what this report includes. Review the PDF before choosing where to share it.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elija qué incluir en este informe. Revise el PDF antes de elegir dónde compartirlo."
+          }
+        }
+      }
+    },
+    "Choose your personal plan to begin.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elija su plan personal para comenzar."
+          }
+        }
+      }
+    },
+    "Close": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cerrar"
+          }
+        }
+      }
+    },
+    "Current plan": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plan actual"
+          }
+        }
+      }
+    },
+    "Edit my plan": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Editar mi plan"
+          }
+        }
+      }
+    },
+    "Handed to another app": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entregado a otra aplicación"
+          }
+        }
+      }
+    },
+    "Handed to another app. Receipt and review are not confirmed.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entregado a otra aplicación. No se confirma la recepción ni la revisión."
+          }
+        }
+      }
+    },
+    "I reviewed this report and choose to share it.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Revisé este informe y elijo compartirlo."
+          }
+        }
+      }
+    },
+    "Include matching history": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Incluir historial coincidente"
+          }
+        }
+      }
+    },
+    "Include plan details": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Incluir detalles del plan"
+          }
+        }
+      }
+    },
+    "Include saved custom instructions": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Incluir instrucciones personales guardadas"
+          }
+        }
+      }
+    },
+    "Includes starting-point records and up to 24 matching records.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Incluye registros del punto de partida y hasta 24 registros coincidentes."
+          }
+        }
+      }
+    },
+    "Keep editing": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seguir editando"
+          }
+        }
+      }
+    },
+    "Local reminders are off. You can still record a check-in.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los recordatorios locales están desactivados. Todavía puede guardar un registro."
+          }
+        }
+      }
+    },
+    "Lock personal records": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bloquear registros personales"
+          }
+        }
+      }
+    },
+    "No check-in time is set for today.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No hay una hora de registro para hoy."
+          }
+        }
+      }
+    },
+    "No plan versions have been saved yet.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Todavía no se han guardado versiones del plan."
+          }
+        }
+      }
+    },
+    "One saved check-in with a recorded value completes your personal check-in for today.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un registro guardado con un valor completa su registro personal de hoy."
+          }
+        }
+      }
+    },
+    "Open custom check-ins": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir registros personales"
+          }
+        }
+      }
+    },
+    "PDF prepared on this phone": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PDF preparado en este teléfono"
+          }
+        }
+      }
+    },
+    "Personal history was left out of this report.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El historial personal se dejó fuera de este informe."
+          }
+        }
+      }
+    },
+    "Personal plan at recording": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plan personal al registrar"
+          }
+        }
+      }
+    },
+    "Physician connections are not available. Choose your clinician's agreed sharing method.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las conexiones con profesionales no están disponibles. Elija el método acordado con su profesional de salud."
+          }
+        }
+      }
+    },
+    "Plan details were left out of this report.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los detalles del plan se dejaron fuera de este informe."
+          }
+        }
+      }
+    },
+    "Plan history": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Historial del plan"
+          }
+        }
+      }
+    },
+    "Preview PDF": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vista previa del PDF"
+          }
+        }
+      }
+    },
+    "Proposed plan": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plan propuesto"
+          }
+        }
+      }
+    },
+    "Receipt and review are not confirmed.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se confirma la recepción ni la revisión."
+          }
+        }
+      }
+    },
+    "Recent report exports": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exportaciones recientes de informes"
+          }
+        }
+      }
+    },
+    "Remind me in 30 minutes": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recordarme en 30 minutos"
+          }
+        }
+      }
+    },
+    "Reminder moved to %@": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recordatorio cambiado a %@"
+          }
+        }
+      }
+    },
+    "Report preview": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vista previa del informe"
+          }
+        }
+      }
+    },
+    "Review before sharing": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Revisar antes de compartir"
+          }
+        }
+      }
+    },
+    "Review your plan changes": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Revisar cambios del plan"
+          }
+        }
+      }
+    },
+    "Saved date was not recorded in the earlier build.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La versión anterior no guardó la fecha."
+          }
+        }
+      }
+    },
+    "Selected record only": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Solo el registro elegido"
+          }
+        }
+      }
+    },
+    "Selected record with matching history": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registro elegido con historial coincidente"
+          }
+        }
+      }
+    },
+    "Shared copies may remain with the recipient after you delete data from Bearing.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El destinatario puede conservar copias compartidas después de que usted borre los datos de Bearing."
+          }
+        }
+      }
+    },
+    "Skip today": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Omitir hoy"
+          }
+        }
+      }
+    },
+    "Skipping does not record a result. You can change your choice.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Omitir no guarda un resultado. Puede cambiar su elección."
+          }
+        }
+      }
+    },
+    "The plan version at recording was not saved.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se guardó la versión del plan al registrar."
+          }
+        }
+      }
+    },
+    "The selected result, date, routine, and recording details are always included.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Siempre se incluyen el resultado elegido, la fecha, la rutina y los detalles de grabación."
+          }
+        }
+      }
+    },
+    "These are personal plans saved on this phone. Their author is not a verified professional.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estos planes personales se guardaron en este teléfono. Su autor no es un profesional verificado."
+          }
+        }
+      }
+    },
+    "This is a saved personal plan version, not a verified physician assignment.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta es una versión guardada del plan personal, no una asignación profesional verificada."
+          }
+        }
+      }
+    },
+    "This is your personal plan. No physician assignment is verified.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este es su plan personal. No se verifica ninguna asignación profesional."
+          }
+        }
+      }
+    },
+    "Today": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hoy"
+          }
+        }
+      }
+    },
+    "Today is skipped.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hoy está omitido."
+          }
+        }
+      }
+    },
+    "Undo skip": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deshacer omisión"
+          }
+        }
+      }
+    },
+    "Unlock Bearing": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir Bearing"
+          }
+        }
+      }
+    },
+    "Unlock your personal movement records.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abra sus registros personales de movimiento."
+          }
+        }
+      }
+    },
+    "Use your device authentication to open Bearing.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use la autenticación de su dispositivo para abrir Bearing."
+          }
+        }
+      }
+    },
+    "Uses your device passcode or biometrics after Bearing goes into the background.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Usa el código o la biometría del dispositivo cuando Bearing vuelve del segundo plano."
+          }
+        }
+      }
+    },
+    "Version %lld": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Versión %lld"
+          }
+        }
+      }
+    },
+    "Your check-in is recorded for today.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Su registro de hoy está guardado."
+          }
+        }
+      }
+    },
+    "Your check-in time is %@": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Su hora de registro es %@"
+          }
+        }
+      }
+    },
+    "Your planned check-in is due.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Es hora de su registro del plan."
+          }
+        }
+      }
+    },
+    "Your records are locked": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sus registros están bloqueados"
+          }
+        }
+      }
+    },
+    "Sharing status could not be saved. Shared copies cannot be recalled.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo guardar el estado de compartir. No se pueden recuperar las copias compartidas."
+          }
+        }
+      }
+    },
+    "Opening Bearing refreshes reminders for the next four weeks.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir Bearing actualiza los recordatorios para las próximas cuatro semanas."
+          }
+        }
+      }
+    },
+    "Locking returns to Home. Save your results before leaving Bearing.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El bloqueo vuelve al inicio. Guarde sus resultados antes de salir de Bearing."
+          }
+        }
+      }
+    },
+    "A temporary PDF is created when you choose Preview PDF.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se crea un PDF temporal cuando elige Vista previa del PDF."
+          }
+        }
+      }
+    },
+    "You choose whether history, plan details, and saved custom instructions appear in the PDF.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Usted elige si el PDF incluye historial, detalles del plan e instrucciones personales guardadas."
+          }
+        }
+      }
+    },
+    "A device lock is available in Make it yours. It does not protect copies shared outside Bearing.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Puede activar el bloqueo en A su manera. No protege las copias compartidas fuera de Bearing."
+          }
+        }
+      }
+    },
+    "I reviewed this PDF.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Revisé este PDF."
+          }
+        }
+      }
+    },
+    "Share PDF": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compartir PDF"
+          }
+        }
+      }
+    },
+    "Report details": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Detalles del informe"
+          }
+        }
+      }
+    },
+    "Report": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Informe"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

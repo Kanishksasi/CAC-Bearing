@@ -1,0 +1,166 @@
+1
+00:00:00,000 --> 00:00:05,739
+We are Kanishk Sasikumar, Niveth, and
+Muhammad. Bearing helps people track
+
+2
+00:00:05,739 --> 00:00:12,000
+familiar movements on an iPhone and
+share personal records with a clinician.
+
+3
+00:00:12,000 --> 00:00:16,815
+Between visits, remembering routines and
+explaining earlier movement can be
+
+4
+00:00:16,815 --> 00:00:21,148
+difficult. Bearing is intended for
+adults tracking familiar exercises,
+
+5
+00:00:21,148 --> 00:00:25,000
+including older adults and veterans in
+rural communities.
+
+6
+00:00:25,000 --> 00:00:31,429
+Choose from five guided routines, or
+create a custom check-in using an
+
+7
+00:00:31,429 --> 00:00:36,786
+existing routine, timer, or count.
+Instructions explain framing and support
+
+8
+00:00:36,786 --> 00:00:40,000
+needs. Manual entries are clearly
+labeled.
+
+9
+00:00:40,000 --> 00:00:46,375
+One challenge was starting without
+reaching back to the phone. Tap Start
+
+10
+00:00:46,375 --> 00:00:53,812
+when ready, then step into view. The app
+waits for steady positioning before a
+
+11
+00:00:53,812 --> 00:00:57,000
+spoken countdown. Recording can be
+stopped.
+
+12
+00:00:57,000 --> 00:01:03,000
+This synthetic example shows an angle
+summary and the attempts that counted.
+
+13
+00:01:03,000 --> 00:01:09,000
+The explanation describes the number and
+its limits. Comparisons use the same
+
+14
+00:01:09,000 --> 00:01:12,000
+routine, side, and personal starting
+point.
+
+15
+00:01:12,000 --> 00:01:17,484
+The PDF adds ordered attempts when
+saved, recording details, matching
+
+16
+00:01:17,484 --> 00:01:22,968
+history, and personal-plan context.
+Missing information is stated instead of
+
+17
+00:01:22,968 --> 00:01:29,000
+invented. A clinician would still need
+medical history and other information.
+
+18
+00:01:29,000 --> 00:01:35,774
+Users can choose a weekly plan and local
+reminder times. The app counts saved
+
+19
+00:01:35,774 --> 00:01:40,613
+check-ins with recorded values. These
+entries show personal tracking, not
+
+20
+00:01:40,613 --> 00:01:44,000
+proof that every exercise was performed
+correctly.
+
+21
+00:01:44,000 --> 00:01:48,179
+English, Spanish, larger text, and
+voice-speed choices support different
+
+22
+00:01:48,179 --> 00:01:54,679
+needs. Records stay in the app unless
+shared or included in device backups. No
+
+23
+00:01:54,679 --> 00:01:57,000
+video is saved by Bearing.
+
+24
+00:01:57,000 --> 00:02:03,188
+Bearing uses Swift, SwiftUI, Apple
+Vision, and on-device storage. We worked
+
+25
+00:02:03,188 --> 00:02:09,375
+together on research, design,
+coding, and testing.
+
+26
+00:02:09,375 --> 00:02:15,000
+The app keeps records on the phone.
+Users choose what to share.
+
+27
+00:02:15,000 --> 00:02:20,500
+One hundred nine unit tests check
+movement math, stored records, and
+
+28
+00:02:20,500 --> 00:02:26,000
+report pages. Software tests do not
+establish medical accuracy. Device and
+
+29
+00:02:26,000 --> 00:02:28,000
+user testing remain important.
+
+30
+00:02:28,000 --> 00:02:32,688
+A future version could let verified
+professionals assign exercise plans,
+
+31
+00:02:32,688 --> 00:02:37,844
+review shared reports, and update
+instructions. That connected loop is not
+
+32
+00:02:37,844 --> 00:02:43,000
+built yet. It would require consent,
+secure access, and professional review.
+
+33
+00:02:43,000 --> 00:02:48,500
+Bearing brings personal movement records
+into one clear, shareable report. Thank
+
+34
+00:02:48,500 --> 00:02:50,000
+you for watching.

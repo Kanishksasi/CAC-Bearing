@@ -1,0 +1,35 @@
+01 | 00:00-00:12 | Kanishk Sasikumar
+We are Kanishk Sasikumar, Niveth, and Muhammad. Bearing helps people track familiar movements on an iPhone and share personal records with a clinician.
+
+02 | 00:12-00:25 | Niveth
+Between visits, remembering routines and explaining earlier movement can be difficult. Bearing is intended for adults tracking familiar exercises, including older adults and veterans in rural communities.
+
+03 | 00:25-00:40 | Muhammad
+Choose from five guided routines, or create a custom check-in using an existing routine, timer, or count. Instructions explain framing and support needs. Manual entries are clearly labeled.
+
+04 | 00:40-00:57 | Kanishk Sasikumar
+One challenge was starting without reaching back to the phone. Tap Start when ready, then step into view. The app waits for steady positioning before a spoken countdown. Recording can be stopped.
+
+05 | 00:57-01:12 | Niveth
+This synthetic example shows an angle summary and the attempts that counted. The explanation describes the number and its limits. Comparisons use the same routine, side, and personal starting point.
+
+06 | 01:12-01:29 | Muhammad
+The PDF adds ordered attempts when saved, recording details, matching history, and personal-plan context. Missing information is stated instead of invented. A clinician would still need medical history and other information.
+
+07 | 01:29-01:44 | Kanishk Sasikumar
+Users can choose a weekly plan and local reminder times. The app counts saved check-ins with recorded values. These entries show personal tracking, not proof that every exercise was performed correctly.
+
+08 | 01:44-01:57 | Niveth
+English, Spanish, larger text, and voice-speed choices support different needs. Records stay in the app unless shared or included in device backups. No video is saved by Bearing.
+
+09 | 01:57-02:15 | Muhammad
+Bearing uses Swift, SwiftUI, Apple Vision, and on-device storage. We worked together on research, design, coding, and testing. The app keeps records on the phone. Users choose what to share.
+
+10 | 02:15-02:28 | Kanishk Sasikumar
+One hundred nine unit tests check movement math, stored records, and report pages. Software tests do not establish medical accuracy. Device and user testing remain important.
+
+11 | 02:28-02:43 | Niveth
+A future version could let verified professionals assign exercise plans, review shared reports, and update instructions. That connected loop is not built yet. It would require consent, secure access, and professional review.
+
+12 | 02:43-02:50 | Muhammad
+Bearing brings personal movement records into one clear, shareable report. Thank you for watching.
